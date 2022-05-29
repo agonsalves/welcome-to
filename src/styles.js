@@ -41,7 +41,7 @@ export const CardAddress = styled.div`
 `;
 
 export const CardEffect = styled.div`
-  background-image: url(/img/${ ({ effect }) => effect }.jpeg);
+  background-image: url(/welcome-to/img/${ ({ effect }) => effect }.jpeg);
   width: 300px;
   height: 200px;
   background-position: center;
