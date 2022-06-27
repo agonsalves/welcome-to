@@ -107,7 +107,7 @@ export const PointsValue = styled.div`
 `;
 
 export const Icon = styled.div`
-  background-image: url(/img/${ ({ effect }) => effect }.jpeg);
+  background-image: url(/welcome-to/img/${ ({ effect }) => effect }.jpeg);
   width: 50px;
   height: 50px;
   background-position: center;
